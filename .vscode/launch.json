@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspace/cpp/Codechef/logical-problems",
-      "program": "/workspace/cpp/Codechef/logical-problems/build/Debug/outDebug",
+      "cwd": "/workspace/cpp/beecrowd",
+      "program": "/workspace/cpp/beecrowd/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
