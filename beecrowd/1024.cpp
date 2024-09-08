@@ -7,7 +7,7 @@ int main(void) {
     int t;
     std::cin >> t;
     std::cin.ignore(std::numeric_limits<streamsize>::max(), '\n'); 
-    while (t-- > 0) {
+    while (t--) {
         std::string input;
         getline(cin, input);
         int inputLength = input.length();
