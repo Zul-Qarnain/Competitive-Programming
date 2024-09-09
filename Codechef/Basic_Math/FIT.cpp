@@ -6,5 +6,4 @@ int main(void){
 		int x;
 		std::cin>>x;
 		std::cout<<x*2*5<<"\n";
-	}
-}
+	}}
