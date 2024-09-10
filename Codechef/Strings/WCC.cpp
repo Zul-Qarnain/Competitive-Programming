@@ -2,7 +2,7 @@
 int main(void){
 	int t;
 	std::cin>>t;
-	while(t--){
+	while(t-->0){
 	std::string array;
 	int point,carlsen=0,chef=0;
 	std::cin>>point;
