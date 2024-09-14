@@ -1,4 +1,3 @@
-//https://www.codechef.com/practice/course/arrays/ARRAYS/problems/RUNCOMPARE
 #include<iostream>
 using namespace std;
 int main(void){
