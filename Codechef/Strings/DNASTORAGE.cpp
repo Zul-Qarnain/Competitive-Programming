@@ -21,5 +21,4 @@ int main(void) {
         }
     }
     std::cout<<"\n";
-	}
-}
+	}}
