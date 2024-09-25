@@ -3,12 +3,13 @@
 #include <cmath>
 #include <cctype>
 #include <algorithm>
+using namespace std;
 int main(void) {
     int t;
-    std::cin >> t;
-    std::cin.ignore(std::numeric_limits<streamsize>::max(), '\n'); 
+    cin >> t;
+    cin.ignore(std::numeric_limits<streamsize>::max(), '\n'); 
     while (t--) {
-        std::string input;
+        string input;
         getline(cin, input);
         int inputLength = input.length();
         int num = inputLength / 2;
@@ -21,6 +22,6 @@ int main(void) {
         for (int i = num; i < inputLength; i++) {
             input[i] -= 1;
         }
-        std::cout << input << "\n";
+        cout << input << "\n";
     }
 }
